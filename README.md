@@ -1,8 +1,20 @@
-# React + Vite
+# React-Redux
+This project demonstrates the use of React-Redux with React-Bootstrap and React Router.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:
 
-Currently, two official plugins are available:
+1. React-Bootstrap: Utilized for UI components and styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. React Router: For navigating between pages.
+
+# Functionality:
+
+1. Product Listing: Displays a list of products using React-Bootstrap cards.
+
+2. Product Details Page: When a user clicks on a product, they are routed to another page displaying the product's details.
+
+3. Quantity Management: Users can increase the product quantity, and the total value will update accordingly.
+
+
+
+
